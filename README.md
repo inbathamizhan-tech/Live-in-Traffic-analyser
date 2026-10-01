@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="./assets/live-in-traffic-analyser-banner.png" alt="Live-in-Traffic Analyser — real-time traffic monitoring across India" width="100%" />
 
 # Live-in-Traffic-analyser
 
